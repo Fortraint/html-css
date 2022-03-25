@@ -1,0 +1,23 @@
+@charset "UTF-8"
+
+@font-face {
+    font-family: 'flor' ;
+    src: url('fonts/Florilane\ Cardillac.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-color: bisque; 
+    font-family: 'flor';  
+    border-radius: 10px;
+    width: 600px;
+    box-shadow: 5px 5px 15px rgba(136, 109, 93, 0.616);
+    padding: 10px;
+    margin: auto;
+}
+
+p{
+    background-color: bisque;
+    border: 10px;
+}
